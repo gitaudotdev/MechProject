@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UberMechanic</string>
+    <string name="title_activity_welcome">Map</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="google_direction_api">AIzaSyAOr1gUepmu_U68l5kiPrQ-mikZ8wfVksM</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_mapp">Map</string>
+    <string name="title_activity_mechanic_tracking">Map</string>
+
+    <string name="FACEBOOK_APP_ID">479358189203480</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">5bc210d41d2f29228a433b3da57c981e</string>
+</resources>
